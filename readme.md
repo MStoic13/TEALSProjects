@@ -4,4 +4,6 @@
 
 This is a console app written in C# (very similar to Java) which uses your Spotify App to talk to the Spotify API and recommend you 10 songs that are very close to a song you give it.
 
+[readme.md](https://github.com/MStoic13/TEALSProjects/tree/master/SpotifySongRecommender)
+
 ## More coming soon...
